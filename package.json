@@ -1,0 +1,18 @@
+{
+  "name": "leet_code_75",
+  "version": "1.0.0",
+  "description": "In this project I will solve top leetcode top 75 problem for my interview preparation by learning the topics",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only src/day_1.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asikur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
